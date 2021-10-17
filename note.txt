@@ -1,2 +1,5 @@
 the package used to validate the information comming from the user:
 npm install @hapi/joi
+
+for password hashing
+npm install bcryptjs

@@ -3,3 +3,9 @@ npm install @hapi/joi
 
 for password hashing
 npm install bcryptjs
+
+jwt
+npm install jsonwebtoken
+
+read the token content
+https://jwt.io/
